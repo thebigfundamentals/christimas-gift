@@ -82,6 +82,10 @@ body {
   animation: snow 10s linear infinite;
 }
 
+.rotate {
+  animation: rotation 2s infinite linear;
+}
+
 @keyframes snow {
   0% {
     background-position: 0 0, 0 0, 0 0;
@@ -135,5 +139,15 @@ body {
 
   100% {
     background-position: 500px 1000px, 200px 400px, -100px 300px;
+  }
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(359deg);
   }
 }
