@@ -10,7 +10,7 @@ const Texts = {
     4: `É verdade. Se a zebra fica sem comer, ela vira uma arara. Se ela comer, vira um docinho.
     Na vida, nem sempre tudo dá certo. Quando algo dá errado, o que a zebra diz?
     “É __ ________ ___ ________”.`,
-    5: `É um problema que acontece. E para os problemas, surgem soluções. Por sorte a zebra é muito criativa, ela desenha, ela pinta, ela projeta. Sabe o que mais ela faz? Ela paga a conta. E ela paga a conte por que ela é ...`,
+    5: `É um problema que acontece. E para os problemas, surgem soluções. Por sorte a zebra é muito criativa, ela desenha, ela pinta, ela projeta. Sabe o que mais ela faz? Ela paga a conta. E ela paga a conta por que ela é ...`,
     6: `Exatamente. Quem é arquiteto paga a conta! Mas entre a zebra e a girafa, quem deu o primeiro presente foi a girafa. E que presente foi esse?`,
     7: `Esse colar de zebra representa o início de uma relação que já dura muitos e muitos anos. E nesses muitos anos, a zebra e a girafa encontraram um lugar para onde eles podem ir, um lugar em que tudo fica mais fácil, apesar de a noite ser muito fria. Para onde a zebra e a girafa vão?`,
     8: `Apesar da pandemia, Paraty sempre vai ser um lugar especial para a zebra e para a girafa. Agora a penúltima pergunta: de acordo com a Alice, mordida quer dizer o quê?`,
