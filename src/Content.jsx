@@ -18,7 +18,7 @@ function Content() {
     };
     const renderContent = () => {
         return <div className='Content-inner'>
-            <img src={`images/${phase}.jpg`} />
+            <img src={`images/${phase}.jpg`} alt='image' />
             <h3>
                 {Texts[phase]}
             </h3>
@@ -28,7 +28,7 @@ function Content() {
     const renderInput = () => {
         if (phase !== 10) {
             return <div><input value={answer} onChange={e => setAnswer(e.target.value)} />
-                <button className='button-24' role='button' onClick={handleSubmit}>Responder</button></div>
+                <button className='button-24' onClick={handleSubmit}>Responder</button></div>
         }
         else {
             return null
