@@ -18,7 +18,7 @@ function Content() {
     };
     const renderContent = () => {
         return <div className='Content-inner'>
-            <img src={`images/${phase}.jpg`} alt='image' />
+            <img src={`images/${phase}.jpg`} alt='phase' />
             <h3>
                 {Texts[phase]}
             </h3>
